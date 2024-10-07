@@ -1,0 +1,13 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+#contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+}
+.card {
+  width: 32%;
+}
